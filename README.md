@@ -18,6 +18,13 @@
 >
 > 人生苦短，别学 python 。—— 同为脚本语言怎么差异这么大！
 
+### 关于仓库
+> 📌 本人原创的代码、文章、项目（包含于各仓库内）默认采用 [CC0 1.0 通用](https://creativecommons.org/publicdomain/zero/1.0) 协议（放弃版权，任意使用，无需署名）。
+>
+> 📌 部分项目中若包含第三方贡献、引用或特殊情况，则以该项目内声明的协议和署名为准。
+>
+> ![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey)
+
 ## 推荐项目（仓库） 
 |项目名|描述|
 |:-:|:-:|
