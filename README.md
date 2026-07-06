@@ -1,4 +1,4 @@
-# Wxxbjs / 无心小白僵尸
+# 无心小白僵尸 / Wxxbjs
 
 - Scratch 纯原爱好者，主要基于 TurboWarp 编写sb3项目
 - 研究 Scratch 调度，写写扩展
@@ -7,9 +7,11 @@
 
 ## 主要技术栈
 ![Scratch](https://img.shields.io/badge/Scratch-ffab19?logo=Scratch&logoColor=white)
-![C++](https://img.shields.io/badge/C++-5f96cf?logo=Cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TurboWarp](https://custom-icon-badges.demolab.com/badge/TurboWarp-FF4C4C?logo=TurboWarp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-5f96cf?logo=CPlusPlus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=CSS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
 
 ### 关于技术，记也切记
 > 本人宁愿写 js 脚本丢到浏览器里跑，也不会专门去写 python 脚本。
@@ -25,9 +27,11 @@
 > 
 > 📌 一些小小的期望（非强制，纯属建议）：
 > >
-> > - 如果可以，尽量保留或指向 原文/原项目 的链接，方便后来的读者能看到最新的版本，也便于追溯和讨论
+> > - 如果引用了本人的文章和观点，尽量保留或指向 原文/原文所在的项目 的链接，方便后来的读者能看到最新的版本，也便于追溯和讨论
 > >
-> > - 如果引用本人的文章和观点，请勿曲解或断章取义，尽量保证完整、准确
+> > - 如果引用了本人的文章和观点，请勿曲解或断章取义，尽量保证完整、准确
+> >
+> > - 有关代码的项目目前没有什么很强烈的期望， CC0 也当然适用，或者具体项目再具体分析。
 > >
 > > - 如果你从中学到了一些东西，不妨也分享出去，知识不是用来囤积的
 > >
